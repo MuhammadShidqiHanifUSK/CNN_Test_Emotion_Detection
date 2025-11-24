@@ -16,7 +16,7 @@ CNN_Test_Emotion_Detection/
 │       └── angry/
 │       └── disgust/
 │       └── fear/
-│       └── happy
+│       └── happy/
 │       └── neutral/
 │       └── sad/
 │       └── surprise/
@@ -24,7 +24,7 @@ CNN_Test_Emotion_Detection/
 │       └── angry/
 │       └── disgust/
 │       └── fear/
-│       └── happy
+│       └── happy/
 │       └── neutral/
 │       └── sad/
 │       └── surprise/
